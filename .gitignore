@@ -1,0 +1,13 @@
+**/.DS_Store
+**/.venv
+**/.classpath
+**/.env
+**/.bck
+**/.project
+**/.settings
+**/.toolstarget
+**/.vs
+**/.vscode
+**/.terraform
+**/.terraform.lock.hcl
+**/.local

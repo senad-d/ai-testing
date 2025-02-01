@@ -1,0 +1,17 @@
+name: UpldateReame
+description: Update README.md with the latest changes
+---
+Use the latest version of README.md for updateing the changes in the project. You can use provided files for reference. Ensure that sections are clearly defined and easy to navigate. Make sure to update the Table of Contents if any section titles are modified or new sections are added.
+Ensure that all spelling is correct before committing.
+Output needs to be in Makedown format.
+
+This is the format you need to follow:
+
+1. Name of project
+2. Table of Contents (do not add name of the project and table of contents here)
+3. Prerequisites
+4. Project Structure
+5. Getting Started
+6. Terraform Setup (Explain what it does and do not show any code here)
+7. Variables (example of .tfvars file)
+8. Documentation (links for dependencies)

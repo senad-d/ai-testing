@@ -1,0 +1,28 @@
+name: Plan
+description: Plan the tasks for the project
+---
+Use this prompt to plan the tasks for your project.
+When creating a plan, make sure to include all the necessary steps to complete the project successfully.
+Make sure to break down each task into smaller, manageable sub-tasks to ensure clarity and ease of execution.
+Make sure to be as detailed as possible in your plan to provide clear guidance for the development team.
+Tasks:
+  - name: Research
+    description: Conduct initial research to gather information and requirements for the project.
+  - name: Design
+    description: Create design mockups and prototypes based on the research findings.
+  - name: Rules
+    description: Create a set of rules to follow during the development process.
+  - name: Development
+    description: Implement the project according to the design specifications.
+  - name: Testing
+    description: Test the project to ensure it meets all requirements and is free of bugs.
+
+Formatting:
+- **Title**: Project Task Plan
+- **Description**: This document outlines the tasks required to complete the project, including research, design, development, testing, deployment, and maintenance.
+- **Tasks**: List of tasks to be completed, along with a brief description of each task.
+- **Research**: Conduct initial research to gather information and requirements for the project.
+- **Design**: Create design mockups and prototypes based on the research findings.
+- **Rules**: Create a set of rules to follow during the development process.
+- **Development**: Implement the project according to the design specifications.
+- **Testing**: Test the project to ensure it meets all requirements and is free of bugs.

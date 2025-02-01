@@ -1,0 +1,20 @@
+name: Comments
+description: Update the file with comments using a description of the commands.
+---
+Please use the provided file to understand the functionality of different parts, paying close attention to detail. Make sure to follow these guidelines to ensure the script is well-documented and easy to understand:
+- Ensure that all commands are explained simply and concisely.
+- Check for correct spelling throughout the document before finalizing it.
+- Add comments before each command and section of the script.
+- Include a clear and concise comment right after the shebang line (“#!/bin/...”) that explains the purpose of the script, following the format from the provided example.
+- Update the file with comments based on these examples to enhance clarity and proper documentation:
+
+```
+#!/bin/sh
+
+###
+# Automate tasks and configuration...
+###
+
+# This is an example of an echo command, which is used to display the string "test" in the terminal.
+echo "test"
+```
