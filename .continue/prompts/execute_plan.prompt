@@ -1,5 +1,5 @@
-name: Create
-description: Acomplish the tasks for the plan of the project
+name: CreateFromPlan
+description: Create a complete code for the project based on the provided project plan.
 ---
 You are developer assigned to this project.
 Please read the text abowe and follow the instructions.

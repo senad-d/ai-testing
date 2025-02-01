@@ -1,4 +1,4 @@
-name: Comments
+name: CommentsBash
 description: Update the file with comments using a description of the commands.
 ---
 Please use the provided file to understand the functionality of different parts, paying close attention to detail. Make sure to follow these guidelines to ensure the script is well-documented and easy to understand:

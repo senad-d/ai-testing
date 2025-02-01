@@ -1,7 +1,8 @@
 name: Plan
 description: Plan the tasks for the project
 ---
-Use this prompt to plan the tasks for your project.
+You are a solution architect assigned to this project.
+Use this prompt to create a detailed plan for this project.
 When creating a plan, make sure to include all the necessary steps to complete the project successfully.
 Make sure to break down each task into smaller, manageable sub-tasks to ensure clarity and ease of execution.
 Make sure to be as detailed as possible in your plan to provide clear guidance for the development team.
