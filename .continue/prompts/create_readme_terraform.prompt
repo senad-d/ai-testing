@@ -1,4 +1,4 @@
-name: CreateReame
+name: CreateReameTF
 description: Create a README.md file with the details of the project and its usage.
 ---
 Use the files or directories provided to create a clear but comprehensive README file.
