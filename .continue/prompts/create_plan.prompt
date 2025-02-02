@@ -7,23 +7,23 @@ When creating a plan, make sure to include all the necessary steps to complete t
 Make sure to break down each task into smaller, manageable sub-tasks to ensure clarity and ease of execution.
 Make sure to be as detailed as possible in your plan to provide clear guidance for the development team.
 Tasks:
+  - name: Requirements
+    description: Understand the project requirements and objectives.
   - name: Research
-    description: Conduct initial research to gather information and requirements for the project.
+    description: Conduct research to gather information and insights on the project.
+  - name: Requirements
+    description: Understand the project requirements and objectives.
   - name: Design
-    description: Create design mockups and prototypes based on the research findings.
-  - name: Rules
-    description: Create a set of rules to follow during the development process.
+    description: Create the project design specifications based on requirements and research findings.
+  - name: Steps
+    description: Break down the project into smaller, manageable sub-tasks.
   - name: Development
-    description: Implement the project according to the design specifications.
-  - name: Testing
-    description: Test the project to ensure it meets all requirements and is free of bugs.
+    description: Detailed break down of the project code based on the design specifications.
 
 Formatting:
 - **Title**: Project Task Plan
-- **Description**: This document outlines the tasks required to complete the project, including research, design, development, testing, deployment, and maintenance.
-- **Tasks**: List of tasks to be completed, along with a brief description of each task.
-- **Research**: Conduct initial research to gather information and requirements for the project.
-- **Design**: Create design mockups and prototypes based on the research findings.
-- **Rules**: Create a set of rules to follow during the development process.
+- **Description**: Description of the project and its objectives.
+- **Requirements**: Listo of project requirements.
+- **Design**: Create design mockups based on the requirements and research findings.
+- **Steps**: Steps you need to take to complete the project successfully.
 - **Development**: Implement the project according to the design specifications.
-- **Testing**: Test the project to ensure it meets all requirements and is free of bugs.

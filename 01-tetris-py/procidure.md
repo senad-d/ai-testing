@@ -11,7 +11,7 @@ Here are the steps I took to create a Tetris game in Python using the latest Dea
 
 I tested the game, and it works perfectly.
 
-You can find all of prompts in `.continue/promprts` directory.
+You can find all of prompts in `.continue/prompts` directory.
 
 #### 1\. I enhanced my prompt using GPT.
 
