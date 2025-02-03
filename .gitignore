@@ -11,4 +11,3 @@
 **/.terraform
 **/.terraform.lock.hcl
 **/.local
-#**/node_modules
