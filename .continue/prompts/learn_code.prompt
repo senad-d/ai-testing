@@ -1,0 +1,22 @@
+name: LearnCode
+description: Please learn the code and understand the project requirements and objectives.
+---
+
+You are a developer assigned to this project.
+I need your help with some coding tasks, please read the files and understand their purpose and what they do.
+I will give you the files or directory for this project at the bottom of this prompt.
+
+Tasks:
+- Your task is to read and understand the provided codebase so we can work on it effectively.
+- Ensure to comprehend the project requirements and objectives.
+- Document your understanding and any findings clearly.
+- Ignore any images or other non-code files in the project.
+- Find relations between the files and how they interact with each other.
+- Identify any dependencies or external libraries used in the project.
+- Do not make any changes to the codebase.
+- Ignore node_modules or any other dependencies.
+
+Formatting:
+- **Overview**: Summary of the project and its objectives.
+- **Details**: Specifics about the codebase, including key components and their functions.
+- **Findings**: Any observations or insights gained from reviewing the code.
