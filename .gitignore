@@ -1,53 +1,112 @@
-**/.DS_Store
-**/.venv
-**/.classpath
-**/.env
-**/.bck
-**/.project
-**/.settings
-**/.toolstarget
-**/.vs
-**/.vscode
-**/.terraform
-**/.terraform.lock.hcl
-**/.local
-**/node_modules
-**/npm-debug.log
-**/yarn-error.log
-**/yarn-debug.log
-**/yarn.lock
-**/package-lock.json
-**/package.json
-**/package.json.bak
-**/package.json.bak.*
-**/package.json.*
-**/package.json.bak.*
-
 # Logs
-logs
+logs/
 *.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 dev-debug.log
+ssm.log
+
 # Dependency directories
 node_modules/
+**/node_modules
+
 # Environment variables
 .env
+**/.env
+**/.env.*
+
 # Editor directories and files
-.idea
-.vscode
+.vscode/
+.idea/
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
-# OS specific
+*.swp
+*~
+
+# IDE-specific files
+.classpath
+.project
+.settings/
+
+# OS-specific files
 .DS_Store
+**/.DS_Store
+**/._*
+**/Thumbs.db
 
-# Task files
-# tasks.json
-# tasks/ 
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc.*
+*.pyd
+*.pyo.*
 
-**/.continue
+# Docker
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.bck
+*.backup
+*.zip
+*.tar
+*.tar.gz
+
+# Terraform
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfplan
+crash.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.terraform/
+.terraform.lock.hcl
+
+# Ignore private keys and certificates
+*.pem
+*.key
+*.cer
+*.pfx
+
+# Task runner files
+tasks.json
+tasks/
+
+# System folders
+**/.local
+**/.local.*
+**/.deprecate
+**/.vars
+lib/python
+
+# Packages
+package-lock.json
+yarn.lock
+
+# Ignore sensitive data
+.gh_token
+ssl/
+secret-encryption/
+
+# Ignore specific testing files
+**/.test
 **/.cursor
+**/.continue
+
+# Application-specific files
+.continue
+.continuerules
+
+# Build artifacts (common extensions)
+*.tar.*
+*.gz
+*.zip
